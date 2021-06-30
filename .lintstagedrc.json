@@ -1,0 +1,4 @@
+{
+  "*": ["prettier --write"],
+  "webpack/**/*": ["yarn build:development:test", "yarn build:production:test"]
+}

@@ -1,0 +1,14 @@
+*.log
+*.tgz
+*.tsbuildinfo
+.editorconfig
+.gitattributes
+.github/CODEOWNERS
+.gitignore
+.husky/
+.prettierignore
+.yarn/
+LICENSE
+build/
+dist/
+yarn.lock

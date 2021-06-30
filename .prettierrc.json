@@ -1,0 +1,13 @@
+{
+  "overrides": [
+    {
+      "files": "*.ejs",
+      "options": { "parser": "html" }
+    },
+    {
+      "files": "*.svg",
+      "options": { "parser": "html" }
+    }
+  ],
+  "trailingComma": "all"
+}
